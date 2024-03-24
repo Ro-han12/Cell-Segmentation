@@ -1,5 +1,5 @@
 # Cell-Segmentation
-End-to-End cell segmentation (deep learning project) using Yolo V8 with Deployment
+End-to-End cell segmentation (CV project) using Yolo V8 with Deployment
 
 ### WORKFLOWS
 1.constants
