@@ -1,7 +1,7 @@
 # Cell-Segmentation
 End-to-End cell segmentation (CV project) using Yolo V8 with Deployment
 
-### WORKFLOWS
+# WORKFLOWS
 1.constants
 2.entity
 3.components
